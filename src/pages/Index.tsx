@@ -177,7 +177,7 @@ const Index = () => {
             <div className="relative">
               <div className="relative z-10 animate-scale-in">
                 <img 
-                  src="/img/f7805978-1500-4b67-a89b-f62f5905fa35.jpg" 
+                  src="/img/ed693992-c5e6-4b87-9894-36c8e1577af0.jpg" 
                   alt="Financial investments" 
                   className="w-full h-auto rounded-2xl shadow-2xl"
                 />
